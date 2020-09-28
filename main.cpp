@@ -1,5 +1,4 @@
 #include <iostream>
-#include <conio.h>
 
 using namespace std;
 
@@ -9,6 +8,5 @@ int main() {
     cin >> lado;
     cout << "El area del cuadrado es: "<<lado*lado;
     
-    getch();
     return 0;
 }
